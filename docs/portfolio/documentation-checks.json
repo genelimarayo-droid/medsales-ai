@@ -1,0 +1,54 @@
+{
+  "brokenLinks": [],
+  "secretPatternMatches": [],
+  "protectedFiles": 26,
+  "changedProtectedFiles": [],
+  "screenshots": [
+    {
+      "file": "01-dashboard.png",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "02-customer-understanding.png",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "03-visit-preparation.png",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "04-roleplay.png",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "05-evidence.png",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "06-opportunity-stage.png",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "07-version-history.png",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "08-contradiction-stage-change.png",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "file": "09-mobile.png",
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "passed": true
+}

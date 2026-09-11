@@ -1,0 +1,35 @@
+{
+  "at": "2026-09-11T10:32:57.584Z",
+  "caseType": "SIMULATED",
+  "browser": "152.0.7977.76",
+  "screenshots": [
+    "02-customer-understanding.png",
+    "03-visit-preparation.png",
+    "04-roleplay.png",
+    "05-evidence.png",
+    "06-opportunity-stage.png",
+    "01-dashboard.png",
+    "08-contradiction-stage-change.png",
+    "07-version-history.png",
+    "09-mobile.png"
+  ],
+  "errors": [],
+  "versionStages": [
+    {
+      "version": 1,
+      "stage": null
+    },
+    {
+      "version": 2,
+      "stage": 4
+    },
+    {
+      "version": 3,
+      "stage": 3
+    }
+  ],
+  "historyProtected": true,
+  "roleplayIsolated": true,
+  "mobileOverflow": false,
+  "passed": true
+}

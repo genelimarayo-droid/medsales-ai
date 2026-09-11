@@ -1,0 +1,246 @@
+[
+  {
+    "path": "src/app.js",
+    "sha256": "3c0d2690c8dd5c712e5eb8f257067ea55d71dc5c180825239bc90b6d0fb04963"
+  },
+  {
+    "path": "src/core.js",
+    "sha256": "637bedae373c58827d98edb6a4309e9ce6cd2dbf6b0f138a40042e7925a74191"
+  },
+  {
+    "path": "src/evidence-validation.js",
+    "sha256": "d9e79c992e6c48e9ca83b430941bab32154093cf305fbc9a429c07a6d418b795"
+  },
+  {
+    "path": "src/evidence.js",
+    "sha256": "0b5f261362d2d6832f7ce93a85ba900fdc219d43519ced8ed0db5834879a99e9"
+  },
+  {
+    "path": "src/favicon.ico",
+    "sha256": "8bd69c4687a5d2d2414d95fc1c55777244394a60bbbc7707afe19c6cb82adfc6"
+  },
+  {
+    "path": "src/index.html",
+    "sha256": "09c4533b38c4400022dbecda8f04b541dd511e3b98ff6111fdfc8c024f92acb1"
+  },
+  {
+    "path": "src/maintenance-frames.js",
+    "sha256": "ea3ab38a0dfe46e341cdd64db3a0af6a683672c84f56a0dcab20897edf14b03c"
+  },
+  {
+    "path": "src/opportunity.js",
+    "sha256": "e47fcfc72dfd907aa4dbae03add19c18cb882609432b76f1141678a84ddf08df"
+  },
+  {
+    "path": "src/presentation.js",
+    "sha256": "fa21a747132b0090dc16458b4854dd2eb60ad43ab068a4793d2f59384dab55db"
+  },
+  {
+    "path": "src/roleplay.js",
+    "sha256": "b9e7392ab84a3173cb0799d866b33a36ea9e238cbb7a257ce3af188d9a502455"
+  },
+  {
+    "path": "src/semantics.js",
+    "sha256": "fd971e339225c052a52402d0424dee1de19c6e76068df953fd1098504f2a5069"
+  },
+  {
+    "path": "src/style.css",
+    "sha256": "d1dc7fa0c47d63d42417295dd46f755198b7500cea34ce56cd85b7c28fa3a5b4"
+  },
+  {
+    "path": "src/vendor/lucide.LICENSE",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+  },
+  {
+    "path": "src/vendor/lucide.min.js",
+    "sha256": "ab85225ecc1daa2033607856f03dd2dabcbc08e2d260a5b97e17c690aa929766"
+  },
+  {
+    "path": "tests/browser-round3.cjs",
+    "sha256": "d11f66ae6d94351619a0dffdb9e3b4b6ee971d0cd31b441bc03e8f1849868a4c"
+  },
+  {
+    "path": "tests/browser-round4.cjs",
+    "sha256": "bfb1cdd8e1d0466e342dc184eaf7db22575697c63e772f18dd69811b1c5a93b3"
+  },
+  {
+    "path": "tests/browser-round5.cjs",
+    "sha256": "6c3ccb4586586ab9bcc12837ab1dde8d7e091a0e0cd135d06c030b938171e9c2"
+  },
+  {
+    "path": "tests/browser-v1_1.cjs",
+    "sha256": "54cbcff38a1bbd4f8a19976e3213a314d549c7c2ebdab7b2b520a3bcaf4ef57a"
+  },
+  {
+    "path": "tests/core.test.mjs",
+    "sha256": "d051c3d0419dec34b634eeab669e579ca922eb0dd6953339be78b076f96bc5d5"
+  },
+  {
+    "path": "tests/round10.test.mjs",
+    "sha256": "9ffb29e0dfda58301aa9901fc0cbf7e71b7fbf0c62c262385b709cf8fb6f9070"
+  },
+  {
+    "path": "tests/round3.test.mjs",
+    "sha256": "b6d982974575425f98642303f1c7b31a8dd25b957f092a6bae8adc1286135ded"
+  },
+  {
+    "path": "tests/round4.test.mjs",
+    "sha256": "09967fd55cdfe049c762442cd98c40eef023661f08758f6717b884f9dc97f36a"
+  },
+  {
+    "path": "tests/round5-fixtures.mjs",
+    "sha256": "4d64d68cb15f066ed98c40548f0d4d06618c77f1553d4e4d645ba12085d439bc"
+  },
+  {
+    "path": "tests/round5.test.mjs",
+    "sha256": "2fff54b305a8249e9ed926cb6a8f7e39766c91b55ea1369854979db96f51fa68"
+  },
+  {
+    "path": "tests/round9.test.mjs",
+    "sha256": "2e0f32e5ab2737517ab0074f889023773ae33845b47b5365c9ee39efe80853e7"
+  },
+  {
+    "path": "tests/v1_1.test.mjs",
+    "sha256": "329d306ef6d3c40634c5ee02df481dd1227b7eca7c8f6c0abb67a413dfb85726"
+  },
+  {
+    "path": "docs/portfolio/business-workflow.md",
+    "sha256": "c3ff7475e9375c51315c3cc54e451e991d9c9fe1b76113cffdec642e06ab7b42"
+  },
+  {
+    "path": "docs/portfolio/capture-screenshots.cjs",
+    "sha256": "c2f25ab9e1f9918c28595d2ac37c14e113d5fe681c5c595f3d095cda6b9f117a"
+  },
+  {
+    "path": "docs/portfolio/competitive-positioning.md",
+    "sha256": "dc380bcc107b0a8d605c47bc0c0c4b7bf65095e828ffa9a23bea43028d0899bf"
+  },
+  {
+    "path": "docs/portfolio/demo-script.md",
+    "sha256": "276990e4998bdcc13a3d2727198dfd2123b15d76ba5c360a33e379218962bdf9"
+  },
+  {
+    "path": "docs/portfolio/design-decisions.md",
+    "sha256": "e8596041236c3f07959086e0d72f3187a162cc03b8ecc0fe3ac8501aef55796b"
+  },
+  {
+    "path": "docs/portfolio/documentation-checks.json",
+    "sha256": "8b3707e3b4cfe16513fe31ba84133a7cfd5d551d7a09b0a92403abcba283d44d"
+  },
+  {
+    "path": "docs/portfolio/evidence-model.md",
+    "sha256": "7a21e764bebd59e90fcde6099b44f0f870a47e65ed66ce9bf149bf454e7a9da8"
+  },
+  {
+    "path": "docs/portfolio/freeze-verification.md",
+    "sha256": "830d373a64e30823c021e0e4f5ccb4f0df470083ea9fd44bb1b9b7560dc71d53"
+  },
+  {
+    "path": "docs/portfolio/github-metadata.md",
+    "sha256": "8ad89fd0ad5e6e36b297244c272867c605490a23ed59344231b7772c67bca601"
+  },
+  {
+    "path": "docs/portfolio/github-release-checklist.md",
+    "sha256": "2a6fbe750926c0ccba92515a22d4ac17c20cbbc2e8435844b634392e56488e14"
+  },
+  {
+    "path": "docs/portfolio/limitations.md",
+    "sha256": "a9c34a9ba2769af2ee59a9e0d2e01e46d2fdbb1a7c30ea58e82f9607eb1815d8"
+  },
+  {
+    "path": "docs/portfolio/MedSales_AI_V1_1_GitHub_Release_Packaging_Report.md",
+    "sha256": "ea2d50ef7ab41337f698b08e70d2fa02ed7378e3b06d8e9389bb2aa98a921d3f"
+  },
+  {
+    "path": "docs/portfolio/MedSales_AI_V1_1_Portfolio_Productization_Report.md",
+    "sha256": "2fd0a1fc2e3e217590ca34633a441ca8581cb49fa02273e5b34c7e63e834c543"
+  },
+  {
+    "path": "docs/portfolio/product-architecture.md",
+    "sha256": "705597d81179a33793e300bb5df7b3e6ffb737ab5891ed62e991386a64cf2268"
+  },
+  {
+    "path": "docs/portfolio/product-overview.md",
+    "sha256": "990be04a7a5a51dc6f14ff17b2cdf9a01f17db93b75cc6c8de4238237fe5122a"
+  },
+  {
+    "path": "docs/portfolio/protected-before.json",
+    "sha256": "21ee97cc64a71ce5ca9a64466093a3d664429fda5b18e0e98f42120c53e99c1b"
+  },
+  {
+    "path": "docs/portfolio/release-scope.md",
+    "sha256": "b9ad0fd36f47c23da8832b16427b663e0cfea7cb8a1aafe5e520110b7d57aacf"
+  },
+  {
+    "path": "docs/portfolio/RELEASE_NOTES_v1.1.0.md",
+    "sha256": "bec4bcb4538f61b85cdcb245b01b9cbde1048cf9bb0edaecaaad3317445aab19"
+  },
+  {
+    "path": "docs/portfolio/screenshots/01-dashboard.png",
+    "sha256": "74e2561138249b1ac462512fcaf496cc7a9f5e0abdb4dab5931c61a3a56d7bc7"
+  },
+  {
+    "path": "docs/portfolio/screenshots/02-customer-understanding.png",
+    "sha256": "343039cd8dc77718bb0f1242af76bb268eee14265919738b40f98653819a1105"
+  },
+  {
+    "path": "docs/portfolio/screenshots/03-visit-preparation.png",
+    "sha256": "7b3f510fd7c371e58b6f29b067d5b9c859a97c9a120bd58c840d02bd59ecf140"
+  },
+  {
+    "path": "docs/portfolio/screenshots/04-roleplay.png",
+    "sha256": "8ca689304fdfa1b152de5f0e4c6ba3ad1cc6228a5f8e1f5cd7ab27f86289db32"
+  },
+  {
+    "path": "docs/portfolio/screenshots/05-evidence.png",
+    "sha256": "2df2dff43cde18493a0ac94def1161530ef2f57126f87317b0ca2cd168a3c26f"
+  },
+  {
+    "path": "docs/portfolio/screenshots/06-opportunity-stage.png",
+    "sha256": "692e06ce1dea016f69eebe6fc2ee11bc6fa18ec16dc6a867772edb79009a5641"
+  },
+  {
+    "path": "docs/portfolio/screenshots/07-version-history.png",
+    "sha256": "17b4d5469c94fd260bcbfcd7323451b1f9a04f229a8bd376c37911a52a81f30f"
+  },
+  {
+    "path": "docs/portfolio/screenshots/08-contradiction-stage-change.png",
+    "sha256": "462a417142c0a279afddccf2d31481433624ecb12155494b9d8f7a08fd78fcfb"
+  },
+  {
+    "path": "docs/portfolio/screenshots/09-mobile.png",
+    "sha256": "a8c6b460f118d381227547f093e192f6da39c916b05f702f9f1c8f83037341e4"
+  },
+  {
+    "path": "docs/portfolio/screenshots/capture-results.json",
+    "sha256": "5c853ad12d829e6e4713c459b6f8183ad42cd4444eded07ff4a594794bb19911"
+  },
+  {
+    "path": "docs/portfolio/SCREENSHOT_PLAN.md",
+    "sha256": "460f53fd8f3f02bb36650cd0f434a973dfd3d2cb4c8209116daf5c6dd5c8df7d"
+  },
+  {
+    "path": "docs/portfolio/verify-docs.cjs",
+    "sha256": "afd564e6ce0e13730966d8b09140e2976371dad1aef828f0cf31c5f425d267d9"
+  },
+  {
+    "path": "README.md",
+    "sha256": "6af91a2a3cba35851b082f18c11e985759926aa78025676f93660b600f76c7ee"
+  },
+  {
+    "path": "package.json",
+    "sha256": "f496e93ae25d823e5dde340dc37fd0a4bfcb9350dc5076d68fd8093179f30708"
+  },
+  {
+    "path": "server.mjs",
+    "sha256": "9d3f52e8191e9235fc17e7af045de86457ab561dbe41261226e3283a494fdd55"
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "d734a8618c210a9aa73b0885b12d1aea7ae6e50d45df78b21c127e2bdd9f320d"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "sha256": "37d53126cd471ea78088635c85036da702945b77c0cae7690f0100b131cb6916"
+  }
+]

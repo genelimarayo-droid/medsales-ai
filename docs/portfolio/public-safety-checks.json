@@ -1,0 +1,70 @@
+{
+  "changes": [
+    {
+      "path": "tests/browser-round3.cjs",
+      "before": "d11f66ae6d94351619a0dffdb9e3b4b6ee971d0cd31b441bc03e8f1849868a4c",
+      "after": "c85273ef783c757b8159c973c6e6446d1022f3d870e1d871cbe88fb04c1191e0"
+    },
+    {
+      "path": "tests/browser-round4.cjs",
+      "before": "bfb1cdd8e1d0466e342dc184eaf7db22575697c63e772f18dd69811b1c5a93b3",
+      "after": "f60d8eca0b366c06e091787f0f28e96c73d31fe39d425423ec497baa07030cc8"
+    },
+    {
+      "path": "tests/browser-round5.cjs",
+      "before": "6c3ccb4586586ab9bcc12837ab1dde8d7e091a0e0cd135d06c030b938171e9c2",
+      "after": "0e20203904962b5f97503f16bd9783f9af823d278c542e6d5251f966c357decc"
+    },
+    {
+      "path": "tests/browser-v1_1.cjs",
+      "before": "54cbcff38a1bbd4f8a19976e3213a314d549c7c2ebdab7b2b520a3bcaf4ef57a",
+      "after": "0b9571cfb9e5e70549ec039ff43abd1a7b7bd2526505f617d838b8db4165eb68"
+    }
+  ],
+  "hits": [],
+  "brokenLinks": [],
+  "pathOnlyChangedLines": [
+    {
+      "file": "tests/browser-v1_1.cjs",
+      "sameLineCount": true,
+      "lines": [
+        4,
+        7
+      ]
+    },
+    {
+      "file": "tests/browser-round3.cjs",
+      "sameLineCount": true,
+      "lines": [
+        3,
+        5
+      ]
+    },
+    {
+      "file": "tests/browser-round4.cjs",
+      "sameLineCount": true,
+      "lines": [
+        3,
+        4
+      ]
+    },
+    {
+      "file": "tests/browser-round5.cjs",
+      "sameLineCount": true,
+      "lines": [
+        3,
+        6
+      ]
+    }
+  ],
+  "currentRegression": {
+    "pass": 30,
+    "fail": 0
+  },
+  "browserTests": {
+    "v1_1": "FAIL: null !== 0 at line 18",
+    "round3": "FAIL: null !== 0 at line 23",
+    "round4": "FAIL: null !== 0 at line 13",
+    "round5": "PASS"
+  }
+}

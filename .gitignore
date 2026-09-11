@@ -1,0 +1,50 @@
+# Dependencies and generated build output
+node_modules/
+dist/
+build/
+.cache/
+.parcel-cache/
+coverage/
+*.tsbuildinfo
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+*.keystore
+
+# Local audit history contains machine paths; public summaries live in docs.
+/work/
+/outputs/
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Browser/test runtime artifacts (portfolio screenshots stay included)
+playwright-report/
+test-results/
+blob-report/
+.playwright/
+browser-cache/
+.browser-profile/
+user-data-dir/
+
+# OS/editor/agent local settings
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+.codex/
+.agents/

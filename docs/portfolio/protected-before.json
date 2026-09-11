@@ -1,0 +1,106 @@
+[
+  {
+    "path": "src/app.js",
+    "sha256": "3c0d2690c8dd5c712e5eb8f257067ea55d71dc5c180825239bc90b6d0fb04963"
+  },
+  {
+    "path": "src/core.js",
+    "sha256": "637bedae373c58827d98edb6a4309e9ce6cd2dbf6b0f138a40042e7925a74191"
+  },
+  {
+    "path": "src/evidence-validation.js",
+    "sha256": "d9e79c992e6c48e9ca83b430941bab32154093cf305fbc9a429c07a6d418b795"
+  },
+  {
+    "path": "src/evidence.js",
+    "sha256": "0b5f261362d2d6832f7ce93a85ba900fdc219d43519ced8ed0db5834879a99e9"
+  },
+  {
+    "path": "src/favicon.ico",
+    "sha256": "8bd69c4687a5d2d2414d95fc1c55777244394a60bbbc7707afe19c6cb82adfc6"
+  },
+  {
+    "path": "src/index.html",
+    "sha256": "09c4533b38c4400022dbecda8f04b541dd511e3b98ff6111fdfc8c024f92acb1"
+  },
+  {
+    "path": "src/maintenance-frames.js",
+    "sha256": "ea3ab38a0dfe46e341cdd64db3a0af6a683672c84f56a0dcab20897edf14b03c"
+  },
+  {
+    "path": "src/opportunity.js",
+    "sha256": "e47fcfc72dfd907aa4dbae03add19c18cb882609432b76f1141678a84ddf08df"
+  },
+  {
+    "path": "src/presentation.js",
+    "sha256": "fa21a747132b0090dc16458b4854dd2eb60ad43ab068a4793d2f59384dab55db"
+  },
+  {
+    "path": "src/roleplay.js",
+    "sha256": "b9e7392ab84a3173cb0799d866b33a36ea9e238cbb7a257ce3af188d9a502455"
+  },
+  {
+    "path": "src/semantics.js",
+    "sha256": "fd971e339225c052a52402d0424dee1de19c6e76068df953fd1098504f2a5069"
+  },
+  {
+    "path": "src/style.css",
+    "sha256": "d1dc7fa0c47d63d42417295dd46f755198b7500cea34ce56cd85b7c28fa3a5b4"
+  },
+  {
+    "path": "src/vendor/lucide.LICENSE",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+  },
+  {
+    "path": "src/vendor/lucide.min.js",
+    "sha256": "ab85225ecc1daa2033607856f03dd2dabcbc08e2d260a5b97e17c690aa929766"
+  },
+  {
+    "path": "tests/browser-round3.cjs",
+    "sha256": "d11f66ae6d94351619a0dffdb9e3b4b6ee971d0cd31b441bc03e8f1849868a4c"
+  },
+  {
+    "path": "tests/browser-round4.cjs",
+    "sha256": "bfb1cdd8e1d0466e342dc184eaf7db22575697c63e772f18dd69811b1c5a93b3"
+  },
+  {
+    "path": "tests/browser-round5.cjs",
+    "sha256": "6c3ccb4586586ab9bcc12837ab1dde8d7e091a0e0cd135d06c030b938171e9c2"
+  },
+  {
+    "path": "tests/browser-v1_1.cjs",
+    "sha256": "54cbcff38a1bbd4f8a19976e3213a314d549c7c2ebdab7b2b520a3bcaf4ef57a"
+  },
+  {
+    "path": "tests/core.test.mjs",
+    "sha256": "d051c3d0419dec34b634eeab669e579ca922eb0dd6953339be78b076f96bc5d5"
+  },
+  {
+    "path": "tests/round10.test.mjs",
+    "sha256": "9ffb29e0dfda58301aa9901fc0cbf7e71b7fbf0c62c262385b709cf8fb6f9070"
+  },
+  {
+    "path": "tests/round3.test.mjs",
+    "sha256": "b6d982974575425f98642303f1c7b31a8dd25b957f092a6bae8adc1286135ded"
+  },
+  {
+    "path": "tests/round4.test.mjs",
+    "sha256": "09967fd55cdfe049c762442cd98c40eef023661f08758f6717b884f9dc97f36a"
+  },
+  {
+    "path": "tests/round5-fixtures.mjs",
+    "sha256": "4d64d68cb15f066ed98c40548f0d4d06618c77f1553d4e4d645ba12085d439bc"
+  },
+  {
+    "path": "tests/round5.test.mjs",
+    "sha256": "2fff54b305a8249e9ed926cb6a8f7e39766c91b55ea1369854979db96f51fa68"
+  },
+  {
+    "path": "tests/round9.test.mjs",
+    "sha256": "2e0f32e5ab2737517ab0074f889023773ae33845b47b5365c9ee39efe80853e7"
+  },
+  {
+    "path": "tests/v1_1.test.mjs",
+    "sha256": "329d306ef6d3c40634c5ee02df481dd1227b7eca7c8f6c0abb67a413dfb85726"
+  }
+]
