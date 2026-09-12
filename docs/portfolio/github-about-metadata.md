@@ -20,6 +20,6 @@ AI topics describe workflow design and the current Mock AI prototype, not a live
 
 ## Website
 
-Website: none yet
+Website: https://medsales-ai.onrender.com
 
-The public repository and v1.1.0 source tag are available; no hosted interactive Demo URL has been established. Localhost addresses are local-run instructions, not a public Website entry.
+The public repository and v1.1.0 source tag are available. The Render-hosted website is a Portfolio / Interview Demo using Mock AI, not a production healthcare system or a real LLM integration. This is the suggested About Website value; no GitHub About setting was changed by this documentation update.

@@ -6,6 +6,12 @@
 
 **V1.1.0 · FROZEN · Portfolio Prototype · Mock AI**
 
+### 🚀 Online Demo
+
+**在线 Demo（Portfolio / Mock AI）：[https://medsales-ai.onrender.com](https://medsales-ai.onrender.com)**
+
+[GitHub Repository](https://github.com/genelimarayo-droid/medsales-ai)
+
 Customer Understanding → Visit Preparation → Roleplay → Evidence Review → Opportunity Assessment → Action Confirmation → Versioned Follow-up
 
 **Customer Statement ≠ Sales Inference ≠ AI Inference**
@@ -84,7 +90,18 @@ node server.mjs
 
 选择模拟客户或新增 Demo 副本，按 [约 8 分钟的讲解脚本](docs/portfolio/demo-script.md) 演示。该时长是预演目标，不是测量得到的新手操作耗时。新 Demo 从初始维护场景开始，不会直接加载 Stage 4；演练与独立模拟拜访记录分开。
 
-应用使用 ES Modules，需要本地服务。当前没有线上 Demo；GitHub 发布的是源码、文档和演示素材。
+应用使用 ES Modules，本地运行需要上述服务；也可直接访问 [在线 Portfolio Demo](https://medsales-ai.onrender.com)。GitHub 提供源码、文档和演示素材。
+
+## Deployment
+
+当前版本已部署至 Render，用于公网作品集展示。
+
+- Runtime: Node.js
+- Start command: `npm start`
+- Public Demo: [https://medsales-ai.onrender.com](https://medsales-ai.onrender.com)
+- Deployment purpose: Portfolio / Interview Demo
+
+公网部署不意味着该项目已经达到生产级医疗软件标准。当前 V1.1 已完成公网 Demo 部署；真实 LLM、外部业务系统、生产级医疗数据接入仍不属于 V1.1 已实现能力。
 
 ## Tech Stack
 
@@ -126,10 +143,10 @@ node --test tests/*.test.mjs
 
 ## Limitations
 
-- Single-user / Local prototype / Mock AI：无真实 LLM API、真实医院采购集成或 CRM 接口。
-- No patient data / No real customer confidential data：展示资料全部为模拟案例，未使用真实患者或客户机密信息。
+- Single-user / Portfolio Prototype / Mock AI：数据仍保存在浏览器 localStorage，无真实 LLM API、真实医院采购集成或 CRM 接口。
+- No patient data / No real customer confidential data：展示资料全部为 SIMULATED 模拟案例，未使用真实医院采购数据、患者或客户机密信息。
 - Human confirmation required：语义确认和行动需要人工审核；演练评分依赖人工行为标注，不是通用 NLP 能力测评。
-- Not medical advice / Not a production healthcare system：不能用于医疗决策、自动采购或真实敏感数据处理。
+- Not medical advice / Not a production healthcare system：不是医疗建议系统或自动采购系统，不能用于医疗决策、自动采购或真实敏感数据处理。
 - localStorage 与 JSON 快照不是加密、防篡改或生产级审计存储；多项目隔离不等于多用户权限系统。
 - Stage 是原型内部证据门槛，不是医院通用采购制度或成交概率。UI 仍有技术字段、低对比度和手动录入负担。
 
@@ -151,9 +168,9 @@ node --test tests/*.test.mjs
 
 **V1.1.0 — FROZEN · Portfolio Prototype**
 
-V1.1.0 is publicly released on [GitHub](https://github.com/genelimarayo-droid/medsales-ai/tree/v1.1.0). 核心业务逻辑已冻结，当前用于 Portfolio、Interview Demo、Product discussion 和医疗器械销售流程探索。
+V1.1.0 is publicly released on [GitHub](https://github.com/genelimarayo-droid/medsales-ai/tree/v1.1.0). 核心业务逻辑停止迭代，目前已完成 GitHub 开源仓库、v1.1.0 release tag 与 [Render 公网 Demo](https://medsales-ai.onrender.com) 部署，进入求职作品集展示阶段，用于 Portfolio、Interview Demo、Product discussion 和医疗器械销售流程探索。
 
-[Release Notes](docs/portfolio/RELEASE_NOTES_v1.1.0.md) 保留发布准备时的说明，标题中的草稿状态属于历史记录；当前源码及 v1.1.0 标签已公开。源码发布不代表线上 Demo 部署或生产就绪。
+[Release Notes](docs/portfolio/RELEASE_NOTES_v1.1.0.md) 保留发布准备时的说明，标题中的草稿状态属于历史记录；当前源码及 v1.1.0 标签已公开，公网 Demo 也已部署。以上均不代表生产级医疗系统就绪。
 
 ## License
 
